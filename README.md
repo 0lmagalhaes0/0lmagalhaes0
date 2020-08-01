@@ -1,16 +1,12 @@
-### Hi there 👋
+#### About Me
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on Python / Data Science Projects
+- ⚡ Fun fact: I was a nomad for some years when I lived in 5 different countries and a cruise ship.
+
+My CV: https://1drv.ms/b/s!AlUhvEdB-IMWv3yWscuURgYiqGWI?e=xhS1TW
+
+My story: https://luismagalhaes-cv.netlify.app/
+
+More info: https://luisanselmoam.wixsite.com/lmagalhaes
 
 <!--
-**0lmagalhaes0/0lmagalhaes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
