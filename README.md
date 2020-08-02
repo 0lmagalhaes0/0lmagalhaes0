@@ -1,7 +1,4 @@
-#### About Me
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Python / Data Science Projects
-- ⚡ Fun fact: I was a nomad for some years when I lived in 5 different countries and a cruise ship.
+<img src="https://github.com/0lmagalhaes0/0lmagalhaes0/blob/master/Jedi%20Mind%20Trick.gif?raw=true" width="450" height="210"/>
 
 My CV: https://1drv.ms/b/s!AlUhvEdB-IMWv3yWscuURgYiqGWI?e=xhS1TW
 
